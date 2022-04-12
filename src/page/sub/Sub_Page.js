@@ -31,6 +31,7 @@ const Sub_Page = props => {
       params: 'HomeMoveSubDetail_Title',
     },
   ];
+
   return (
     <SafeAreaView
       style={{

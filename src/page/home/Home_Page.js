@@ -57,8 +57,8 @@ const Home_Page = props => {
     },
     {
       index: 10,
-      navigation: 'SubDetail',
-      params: 'SubDetail_Title',
+      navigation: 'HomeMoveSubDetail',
+      params: 'HomeMoveSubDetail_Title',
     },
     {
       index: 11,
